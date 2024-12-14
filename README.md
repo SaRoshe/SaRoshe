@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Roshe and I love analytice.
+My name is Roshe and I love analysis.
 
 - 🔭 I’m currently working on data analysis projects. 
 - 🌱 I’m currently learning how to make real world insights.
